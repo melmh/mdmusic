@@ -42,7 +42,7 @@
 /* bestM */
 .bestM {}
 .bestM .best-title {}
-.bestM .best-title .bt-stit {}
+.bestM .best-title .bt-stit {color: #DA5E7C; font-size: 12px; line-height: 1.67;}
 .bestM .best-title .bt-tit {}
 .bestM .best-title .bt-desc {}
 

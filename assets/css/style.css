@@ -16,6 +16,7 @@
 #header .header_title {
     font-weight: bold;
     font-size: 32px;
+    border-bottom: 1px solid #ebebeb;
 }
 #header .header_id {
     position: absolute; right: 0; bottom: 5px;
@@ -33,6 +34,18 @@
     text-transform: uppercase;
     background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
 }
+
+
+
+/* bestM */
+.bestM {}
+.bestM .best-title {}
+.bestM .best-title .bt-stit {}
+.bestM .best-title .bt-tit {}
+.bestM .best-title .bt-desc {}
+
+
+
 
 
 /* mediaquery */
